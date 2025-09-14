@@ -21,10 +21,7 @@ This project is a **Retrieval-Augmented Generation (RAG) chatbot** that uses:
   - `Raw`: Direct retrieval from FAISS without compression.  
 
 ---
+![Chatbot Screenshot](context_screenshot.png)
 
-## 🚀 Setup & Installation
 
-### 1️⃣ Clone the repo
-```bash
-git clone https://github.com/your-username/contextual-rag-chatbot.git
-cd contextual-rag-chatbot
+
