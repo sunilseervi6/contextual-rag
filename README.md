@@ -1,4 +1,6 @@
 # 🧠 Contextual RAG Chatbot (Groq + FAISS)
+run in google colab
+
 
 This project is a **Retrieval-Augmented Generation (RAG) chatbot** that uses:
 
