@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #in collab
 
-!pip install gradio langchain-community faiss-cpu sentence-transformers groq
+#!pip install gradio langchain-community faiss-cpu sentence-transformers groq
 
 import os
 import gradio as gr
